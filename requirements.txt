@@ -1,0 +1,11 @@
+praw
+moviepy
+edge-tts
+requests
+python-dotenv
+selenium
+webdriver-manager
+# For image processing
+Pillow
+# For async
+aiohttp
